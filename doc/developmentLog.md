@@ -108,5 +108,8 @@ Error 6: compiler warnings such as `variable set but not used`
 - Ready, but not yet confirmed running: the graph window.
 - Not started: process list, disk and network monitoring, sidebar layout.
 
+
+![alt text](image.png)
+
 ---
 
